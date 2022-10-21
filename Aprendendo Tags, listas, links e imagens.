@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAGS, LISTA E IMAGENS</title>
+</head>
+
+<body>
+    <H1>APRENDENDO</H1>
+    <div>
+        <P>
+            Estou aprendendo as <strong>TAGS e LISTAS</strong> e também a adicionar <strong>LINKS e IMAGENS</strong> na
+            pagina, tudo isso para ver se consigo <br>emprego melhor, no dia de hoje <strong>21/10/2022</strong> retomei
+            as aulas no <u>udemy.</u></P>
+        <p>
+            <img src="https://scontent.fmoc1-1.fna.fbcdn.net/v/t39.30808-6/308685414_498165342316631_2288318996080052399_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFIunDc0C5YOaOv9CEnbPDKL7CqhSM688kvsKqFIzrzycX8IXotPS3SqE9PvQqVWwd6FtyQR2CJJJiuoOJhNCNN&_nc_ohc=UhS-QjhODQAAX_HKUpY&_nc_ht=scontent.fmoc1-1.fna&oh=00_AT9LpVwg6CBDOj3mpDfj-26IuRwBxPU1Z94CynuhUa4pDg&oe=6357377D" alt="Jamilton Damasceno" width="500px"><br>
+            Um dos cursos que comprei foi o do Jamilton Damasceno - <b><a href="https://www.udemy.com/course/curso-html-basico/" target="_blank">Crie sites do zero com HTML5 & CSS3</a></b>
+        </p>
+    </div>
+    <div>
+        <h2>3 motivos que eu quero aprender</h2>
+        <ul>
+            <li>Motivo 01: O salario em Montes Claros é horroroso</li>
+            <li>Motivo 02: TI ta pagando muito melhor e da pra ficar em casa</li>
+            <li>Motivo 03: Não precisa ser formado na area, basta estudar bastante.</li>
+        </ul>
+    </div>
+
+</body>
